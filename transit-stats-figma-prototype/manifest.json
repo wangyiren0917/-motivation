@@ -1,0 +1,15 @@
+{
+  "name": "Transit Stats Prototype",
+  "id": "1594038720648193001",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
